@@ -211,10 +211,25 @@
     "description": "Style pages by taking advantage of the power of CSS3.",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
         {
-            "title" : "Introduction to CSS3",
+            "title" : "Document: Syllabus",
+            "href" : "/pages/css3/01_syllabus.php"
+        },
+        {
+            "title" : "Document: Resources",
+            "href" : "pages/css3/02_resources.php"
+        },
+        {
+            "title" : "Document: Help us learn more about you!",
+            "href" : "pages/css3/03_you.php"
+        },
+        {
+            "title" : "Video: Introduction to CSS3",
             "href" : "https://www.coursera.org/learn/introcss/lecture/zOHP0/01-01-course-welcome"
+        },
+        {
+            "title" : "Document: Building Your First Web Page by Shay Howe",
+            "href" : "pages/css3/04_howe.php"
         },
         {
             "title" : "Cascading Style Sheets",
@@ -229,6 +244,10 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/kxPBK/01-04-styling-your-text"
         },
         {
+            "title" : "Document: Early Coding",
+            "href" : "pages/css3/05_early.php"
+        },
+        {
             "title" : "Code Together",
             "href" : "https://www.coursera.org/learn/introcss/lecture/9Ps4p/01-05-code-together"
         },
@@ -239,6 +258,10 @@
         {
             "title" : "Display and Visibility Part 2",
             "href" : "https://www.coursera.org/learn/introcss/lecture/vXFBt/01-06b-display-and-visibility-part-2"
+        },
+        {
+            "title" : "Document: Code Placement",
+            "href" : "pages/css3/06_placement.php"
         },
         {
             "title" : "OPTIONAL: Homework Description",
@@ -384,7 +407,7 @@
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
-        "launch" : "mod/gift/",
+        "launch" : "mod/peer-grade/",
         "resource_link_id" : "css_05_quiz"
         }
     ]
@@ -544,7 +567,7 @@
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
-        "launch" : "mod/gift/",
+        "launch" : "mod/peer-grade/",
         "resource_link_id" : "js_04_quiz"
         }
     ]

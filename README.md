@@ -13,7 +13,7 @@ Install MAMP (or similar) using https://www.py4e.com/install.php
 Check out this repo into a top level folder in htdocs
 
     cd /Applications/MAMP/htdocs
-    git clone https://github.com/csev/wa4e.git
+    git clone https://github.com/alonmelon25/wd4e.git
 
 Go into the newly checked out folder and get a copy of Tsugi:
 
@@ -33,31 +33,31 @@ Still in the tsugi folder set up config.php:
 Edit the config.php file, scroll through and set up all the variables.  As you scroll through the file
 some of the following values are the values I use on my MAMP:
 
-    $wwwroot = 'http://localhost:8888/wa4e/tsugi';   // Embedded Tsugi localhost
-    
+    $wwwroot = 'http://localhost:8888/wd4e/tsugi';   // Embedded Tsugi localhost
+
     ...
-    
+
     $CFG->pdo = 'mysql:host=127.0.0.1;port=8889;dbname=tsugi'; // MAMP
     $CFG->dbuser    = 'ltiuser';
     $CFG->dbpass    = 'ltipassword';
-    
+
     ...
-    
+
     $CFG->adminpw = 'short';
-    
+
     ...
-    
-    $CFG->apphome = 'http://localhost:8888/wa4e';
-    $CFG->context_title = "Web Applications for Everybody";
+
+    $CFG->apphome = 'http://localhost:8888/wd4e';
+    $CFG->context_title = "Web Design for Everybody";
     $CFG->lessons = $CFG->dirroot.'/../lessons.json';
-    
-    ... 
-    
+
+    ...
+
     $CFG->tool_folders = array("admin", "../tools", "../mod");
     $CFG->install_folder = $CFG->dirroot.'./../mod'; // Tsugi as a store
-    
+
     ...
-    
+
     $CFG->servicename = 'WA4E';
 
 Then go to https://console.developers.google.com/apis/credentials and
@@ -68,8 +68,8 @@ put the following into "Authorized JavaScript Origins":
 
 And these into Authorized redirect URIs:
 
-    http://localhost/wa4e/tsugi/login.php
-    http://localhost/wa4e/tsugi/login
+    http://localhost/wd4e/tsugi/login.php
+    http://localhost/wd4e/tsugi/login
 
 Note: You do not need port numbers for either of these values in your Google
 configuration.
@@ -91,26 +91,26 @@ Starting the Application
 
 After the above configuration is done, navigate to your application:
 
-    http://localhost:8888/wa4e/
+    http://localhost:8888/wd4e/
 
-It should complain that you have not created tables and suggest you 
+It should complain that you have not created tables and suggest you
 use the Admin console to do that:
 
-    http://localhost:8888/wa4e/tsugi/admin
+    http://localhost:8888/wd4e/tsugi/admin
 
-It will demand the `$CFG->adminpw` from `config.php` (above) before 
+It will demand the `$CFG->adminpw` from `config.php` (above) before
 unlocking the admin console.  Run the "Upgrade Database" option and
 it should create lots of tables in the database and the red warning
 message about bad database, should go away.
 
 Got into the database and the `lti_key` table, find the row with the `key_key`
-of google.com and put a value in the `secret` column - anything will do - 
+of google.com and put a value in the `secret` column - anything will do -
 just don't leave it empty or the internal LTI tools will not launch.
 
 Next use the administrator interface to install the peer-grading tool
 from the github repository:
 
-    http://localhost:8888/wa4e/tsugi/admin/install
+    http://localhost:8888/wd4e/tsugi/admin/install
 
 Click on "Available Modules" and install https://github.com/tsugitools/peer-grade
 
@@ -122,7 +122,7 @@ Using the Application
 
 Navigate to:
 
-    http://localhost:8888/wa4e/
+    http://localhost:8888/wd4e/
 
 You should click around without logging in and see if things work.
 
@@ -138,4 +138,3 @@ Make sure to set the non-standard session save path in these files:
     assn/.htaccess
     code/.htaccess
     solutions/.htaccess
-   
