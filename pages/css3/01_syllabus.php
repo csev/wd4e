@@ -38,3 +38,12 @@ li { padding: 5px; }
   <h3>Quizzes</h3>
   <p>The first three modules will each have a graded quiz. These quizzes are intended to reinforce your confidence in the material, not "trick" you. As often as possible each question will be linked to a specific lecture or reading. You can take the quizzes as many times as you like, but there is a limit on how many times you can take each quiz in a certain time period. Occasionally I include an ungraded quiz to help students track their current progress and prepare them for the graded quiz.</p>
   <br>
+  <h3>Peer Graded Assignments</h3>
+  <p>There will be three peer graded assignments in this course: they are at the end of Week One, Week, Two, and Week Four. You are actually ready to start the final assessment by the end of the third week of class, I just wanted to provide some examples to accompany the final project.</p>
+  <br>
+  <h3>Optional Materials</h3>
+  <p>There will also be optional material provided in many of the modules. These may range from links to recent articles to videos on pioneers in the fields of design and accessibility. None of these materials will be required for the quizzes, but rather provide additional ways for you to branch out and learn more about the history of the field or the emerging ideas.</p>
+  <br>
+  <h3>Communication</h3>
+  <p>Communication for this course is done via the Discussion boards. The best way to utilize the discussion board is to search for your topic before posting. If you can't find an answer, please try to post your question to the appropriate week. The mentors and Course liaison do a great job of helping people. And of course we rely on students to help each other as well. If you want to contact me directly, I do check my ColleenAtUMSI Twitter account. I can not respond to emails.</p>
+</body>
