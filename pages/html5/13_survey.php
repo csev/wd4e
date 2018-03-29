@@ -18,3 +18,4 @@ li { padding: 5px; }
   <br>
   <p>Thank you for participating!</p>
 </body>
+</html>

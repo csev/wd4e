@@ -47,3 +47,4 @@ li { padding: 5px; }
   <h3>"Passing" the course</h3>
   <p>Learners must pass every graded assessment to pass the course, regardless of their final grade. A passing grade for each of the quizzes is 70%. The final project requires a perfect score.</p>
 </body>
+</html>

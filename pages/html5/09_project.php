@@ -28,3 +28,4 @@ li { padding: 5px; }
   <h3>Autograder</h3>
   <p>I have created an autograded that will check your HTML code for syntactics correctness (as well as spelling). Once you have completed that, you can put the entire file into the grader. Please note that you must get this COMPLETELY correct to receive credit. You will get frustrated. You will put in silly mistakes. But hang in there. And don't forget to reach out for help if you need it.</p>
 </body>
+</html>

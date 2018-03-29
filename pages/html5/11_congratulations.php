@@ -26,3 +26,4 @@ li { padding: 5px; }
   <p>Web Design for Everyone Capstone</p>
   <p>The capstone is your chance to fail. Again and again. Why would I put it that way? Because you can not really call yourself a web designer until you have had to test and debug your site multiple times. New information will not be covered in this course, instead you will be given weekly checkpoints as you design, code, and debug your own responsive, interactive site. The emphasis on accessibility will remain. Upon completion of the capstone you will have a portfolio-ready site.</p>
 </body>
+</html>

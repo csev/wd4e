@@ -26,3 +26,4 @@ li { padding: 5px; }
   <p>If you are looking for even more hands-on practice many people use the <a href "https://www.codecademy.com">Codecademy</a> website. This site awards badges as you complete skills. This site is free, but <b><i>registration is required</i></b>. My advice is to make sure you are doing more than just trying to "get through," and focusing on the concepts that you are practicing.</p>
   <br>
 </body>
+</html>

@@ -21,3 +21,4 @@ li { padding: 5px; }
   <br>
   <p><b>Software</b>: The <b>preferred</b>way to code in this class is editor software (Notepad, TextWrangler, Sublime, etc). If you do not have the ability to access or install this type of software, there is an online editor at: <a href "http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro">http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro</a>.
 </body>
+</html>

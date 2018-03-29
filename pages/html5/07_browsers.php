@@ -16,3 +16,4 @@ li { padding: 5px; }
   <br>
   <p>Some people are very loyal to their browsers, any of my comments here are just my views!</p>
 </body>
+</html>

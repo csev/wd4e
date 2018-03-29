@@ -217,7 +217,7 @@
         },
         {
             "title" : "Document: Resources",
-            "href" : "pages/css3/02_resources.php"
+            "href" : "pages/css3/02_resources1.php"
         },
         {
             "title" : "Document: Help us learn more about you!",
@@ -232,7 +232,7 @@
             "href" : "pages/css3/04_howe.php"
         },
         {
-            "title" : "Cascading Style Sheets",
+            "title" : "Video: Cascading Style Sheets",
             "href" : "https://www.coursera.org/learn/introcss/lecture/pf413/01-02-cascading-style-sheets"
         },
         {
@@ -264,7 +264,11 @@
             "href" : "pages/css3/06_placement.php"
         },
         {
-            "title" : "OPTIONAL: Homework Description",
+            "title" : "Document: Homework One Description",
+            "href" : "pages/css3/07_hw1.php"
+        },
+        {
+            "title" : "Video: OPTIONAL: Homework Description",
             "href" : "https://www.coursera.org/learn/introcss/lecture/ta7aA/01-07-optional-homework-description"
         }
     ],
@@ -273,6 +277,11 @@
         "title" : "Quiz: Styling Syntax and Theory",
         "launch" : "mod/gift/",
         "resource_link_id" : "css_01_quiz"
+        },
+        {
+        "title" : "Peer-graded Assignment: Your First Styled Site",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "css_02_quiz"
         }
     ]
 },
@@ -283,10 +292,17 @@
     "description": "Box Model, background images, opacity, float, columns, visibility, and designing for different browsers.",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
         {
-            "title" : "Box Model",
+            "title" : "Document: Resources",
+            "href" : "pages/css3/08_resources2.php"
+        },
+        {
+            "title" : "Video: Box Model",
             "href" : "https://www.coursera.org/learn/introcss/lecture/VDg21/02-01-box-model"
+        },
+        {
+            "title" : "Document: Coding Together",
+            "href" : "pages/css3/09_together.php"
         },
         {
             "title" : "Code Together",
@@ -299,6 +315,14 @@
         {
             "title" : "Advanced Selectors",
             "href" : "https://www.coursera.org/learn/introcss/lecture/dXukm/02-04-advanced-selectors"
+        },
+        {
+            "title" : "Document: Supplemental Reading on Complex Selectors",
+            "href" : "pages/css3/10_selectors.php"
+        },
+        {
+            "title" : "Document: Shorthand Rules",
+            "href" : "pages/css3/11_shorthand.php"
         },
         {
             "title" : "Browser Capabilities",
@@ -321,12 +345,12 @@
         {
         "title" : "Quiz: Review (OPTIONAL)",
         "launch" : "mod/gift/",
-        "resource_link_id" : "css_02_quiz"
+        "resource_link_id" : "css_03_quiz"
         },
         {
         "title" : "Quiz: Advanced Selectors",
         "launch" : "mod/gift/",
-        "resource_link_id" : "css_03_quiz"
+        "resource_link_id" : "css_04_quiz"
         }
     ]
 },
@@ -363,7 +387,7 @@
         {
         "title" : "Quiz: Final Quiz",
         "launch" : "mod/gift/",
-        "resource_link_id" : "css_04_quiz"
+        "resource_link_id" : "css_05_quiz"
         }
     ]
 },
@@ -408,7 +432,7 @@
         {
         "title" : "Peer-graded Assignment",
         "launch" : "mod/peer-grade/",
-        "resource_link_id" : "css_05_quiz"
+        "resource_link_id" : "css_06_quiz"
         }
     ]
 },
