@@ -1,0 +1,554 @@
+{
+"title": "Web Design for Everybody (WD4E)",
+"description" : "Hello and welcome to my site where you can work through these modules and learn to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript. Mastering this range of technologies will allow you to develop high quality web sites that, work seamlessly on mobile, tablet, and large screen browsers accessible.",
+"count": true,
+"required_modules": [
+    "https://github.com/tsugitools/peer-grade"
+],
+"badges": [
+    {
+        "title" : "Enrolled in Web Design for Everybody (WD4E)",
+        "image" : "00_hello_world.png",
+        "threshold" : "0.0",
+        "assignments" : [
+        ]
+    }
+],
+"modules": [
+{
+    "title": "HTML5/Web Basics",
+    "anchor": "basics",
+    "icon" : "fa-clone",
+    "description": "Uncover the 'mystery' behind the Internet.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+        {
+            "title" : "Document: Syllabus",
+            "href" : "pages/html5/01_syllabus.php"
+        },
+        {
+            "title" : "Document: Required Materials",
+            "href" : "pages/html5/02_materials.php"
+        },
+        {
+            "title" : "Document: Optional Resources",
+            "href" : "pages/html5/03_optional.php"
+        },
+        {
+            "title" : "Document: Help us learn more about you!",
+            "href" : "pages/html5/04_you.php"
+        },
+        {
+            "title" : "Video: Introduction to HTML5",
+            "href" : "https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5"
+        },
+        {
+            "title" : "Document: OPTIONAL - The Browser Wars",
+            "href" : "pages/html5/05_wars.php"
+        },
+        {
+            "title" : "Document: OPTIONAL - The Origins of MOSAIC",
+            "href" : "pages/html5/06_mosaic.php"
+        },
+        {
+            "title" : "Video: The Evolution of HTML5",
+            "href" : "https://www.coursera.org/learn/html/lecture/Lhlau/01-02-the-evolution-of-html"
+        },
+        {
+            "title" : "Video: How it Works: The 'Magic' of Page Requests",
+            "href" : "https://www.coursera.org/learn/html/lecture/5syEt/01-03-how-it-works-the-magic-of-page-requests"
+        },
+        {
+            "title" : "Document: Browsers",
+            "href" : "pages/html5/07_browsers.php"
+        },
+        {
+            "title" : "Video: Looking at Your Browsing Options",
+            "href" : "https://www.coursera.org/learn/html/lecture/rPIuh/01-04-looking-at-your-browser-options"
+        },
+        {
+            "title" : "Video: Editors: How to use an editor to create an HTML file",
+            "href" : "https://www.coursera.org/learn/html/lecture/wsxd5/01-05-editors-how-to-use-an-editor-to-create-an-html-file"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: HTML/Web Basics",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "html_01_quiz"
+        }
+    ]
+},
+{
+    "title": "HTML Tags",
+    "anchor": "tags",
+    "icon" : "fa-clone",
+    "description": "Master the basic idea of using tags and attributes you will know everything you need to use any HTML5 tag.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+        {
+            "title" : "Video: The Document Object Model [DOM]",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
+            "title" : "Video: HTML5 Tags and Syntax",
+            "href" : "https://www.coursera.org/learn/html/lecture/m1BQg/02-02-html5-tags-and-syntax"
+        },
+        {
+            "title" : "Video: Semantic Tags",
+            "href" : "https://www.coursera.org/learn/html/lecture/riOKu/02-03-semantic-tags"
+        },
+        {
+            "title" : "Video: Template Page",
+            "href" : "https://www.coursera.org/learn/html/lecture/6YX4i/02-04-template-page"
+        },
+        {
+            "title" : "Video: Images",
+            "href" : "https://www.coursera.org/learn/html/lecture/NxaOr/02-05-images"
+        },
+        {
+            "title" : "Video: Hyperlinks",
+            "href" : "https://www.coursera.org/learn/html/lecture/7Wvrg/02-06-hyperlinks"
+        },
+        {
+            "title" : "Video: Multimedia",
+            "href" : "https://www.coursera.org/learn/html/lecture/CIR2e/02-07-multimedia"
+        },
+        {
+            "title" : "Video: Tables",
+            "href" : "https://www.coursera.org/learn/html/lecture/HtqUe/02-08-tables"
+        },
+        {
+            "title" : "Video: Useful Tags",
+            "href" : "https://www.coursera.org/learn/html/lecture/blrRu/02-09-useful-tags"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Tags",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "html_02_quiz"
+        }
+    ]
+},
+{
+    "title": "HTML Hosting and Validation",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "The important but often overlooked concepts of validation and accessibility.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+        {
+            "title" : "Video: Accessibility",
+            "href" : "https://www.coursera.org/learn/html/lecture/d6Pha/03-01-accessibility"
+        },
+        {
+            "title" : "Video: Validating Your Site",
+            "href" : "https://www.coursera.org/learn/html/lecture/5HnFB/03-02-validating-your-site"
+        },
+        {
+            "title" : "Document: Putting Your Code Out on the Web",
+            "href" : "pages/html5/08_web.php"
+        },
+        {
+            "title" : "Video: Hosting Your Site",
+            "href" : "https://www.coursera.org/learn/html/lecture/rEN7t/03-03-hosting-your-site"
+        },
+        {
+            "title" : "Video: cPanel",
+            "href" : "https://www.coursera.org/learn/html/lecture/Ct8Hy/03-04-cpanel"
+        },
+        {
+            "title" : "Video: Using Secure File Transfer Protocol",
+            "href" : "https://www.coursera.org/learn/html/lecture/oJyXt/03-05-using-secure-file-transfer-protocol"
+        },
+        {
+            "title" : "Document: Final Project Description",
+            "href" : "pages/html5/09_project.php"
+        },
+        {
+            "title" : "Video: Final Project Demo",
+            "href" : "https://www.coursera.org/learn/html/lecture/iFxeJ/03-06-final-project-demo"
+        },
+        {
+            "title" : "Document: The Final Exam has changed",
+            "href" : "pages/html5/10_exam.php"
+        },
+        {
+            "title" : "Document: Congratulations!",
+            "href" : "pages/html5/11_congratulations.php"
+        },
+        {
+            "title" : "Video: Closing",
+            "href" : "https://www.coursera.org/learn/html/lecture/FlG0K/03-07-closing"
+        },
+        {
+            "title" : "Document: Congratulations!",
+            "href" : "pages/html5/12_more.php"
+        },
+        {
+            "title" : "Document: Congratulations!",
+            "href" : "pages/html5/13_survey.php"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Hosting and Validation",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "html_03_quiz"
+        },
+        {
+        "title" : "Quiz: Final Project",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "html_04_quiz"
+        }
+    ]
+},
+{
+    "title": "Getting Started with Simple Styling",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "Style pages by taking advantage of the power of CSS3.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "Introduction to CSS3",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/zOHP0/01-01-course-welcome"
+        },
+        {
+            "title" : "Cascading Style Sheets",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/pf413/01-02-cascading-style-sheets"
+        },
+        {
+            "title" : "Colors",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/BssvJ/01-03-colors"
+        },
+        {
+            "title" : "Styling Your Text",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/kxPBK/01-04-styling-your-text"
+        },
+        {
+            "title" : "Code Together",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/9Ps4p/01-05-code-together"
+        },
+        {
+            "title" : "Display and Visibility Part 1",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/2XGcn/01-06a-display-and-visibility-part-1"
+        },
+        {
+            "title" : "Display and Visibility Part 2",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/vXFBt/01-06b-display-and-visibility-part-2"
+        },
+        {
+            "title" : "OPTIONAL: Homework Description",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/ta7aA/01-07-optional-homework-description"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Styling Syntax and Theory",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "css_01_quiz"
+        }
+    ]
+},
+{
+    "title": "Advanced Styling",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "Box Model, background images, opacity, float, columns, visibility, and designing for different browsers.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "Box Model",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/VDg21/02-01-box-model"
+        },
+        {
+            "title" : "Code Together",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/YqFkK/02-02-code-together"
+        },
+        {
+            "title" : "Styling Links and Lists",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/VVJf3/02-03-styling-links-and-lists"
+        },
+        {
+            "title" : "Advanced Selectors",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/dXukm/02-04-advanced-selectors"
+        },
+        {
+            "title" : "Browser Capabilities",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/rlS0y/02-05-browser-capabilites"
+        },
+        {
+            "title" : "Code Together",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/2GdcH/02-06-code-together"
+        },
+        {
+            "title" : "Designing for Accessibility",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/sB0Wx/02-07-designing-for-accessibility"
+        },
+        {
+            "title" : "OPTIONAL: Homework Description",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Review (OPTIONAL)",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "css_02_quiz"
+        },
+        {
+        "title" : "Quiz: Advanced Selectors",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "css_03_quiz"
+        }
+    ]
+},
+{
+    "title": "Psuedo-classes, Pseudo-elements, Transitions, and Positioning",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "Style pseudo-classes and pseudo-elements.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "Pseudo Classes and Elements",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/jE7LQ/03-01-pseudo-classes-and-elements"
+        },
+        {
+            "title" : "Transitions",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/JmJhE/03-02-transitions"
+        },
+        {
+            "title" : "Transforms",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/9rzOu/03-03-transforms"
+        },
+        {
+            "title" : "Code Together - Transitions",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/iJzUX/03-04-code-together-transitions"
+        },
+        {
+            "title" : "Positioning",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/f1qY2/03-05-positioning"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Final Quiz",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "css_04_quiz"
+        }
+    ]
+},
+{
+    "title": "Putting It All Together",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "Using pseudo-classes and pseudo-elements to style a table and utilizing different styling options",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "Styling Tables",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/OGCjp/04-01-styling-tables"
+        },
+        {
+            "title" : "Creating Navigation",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/y5ODR/04-02-creating-navigation-menus"
+        },
+        {
+            "title" : "Accessible Navigation",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/WWU0K/04-03-accessible-navigation"
+        },
+        {
+            "title" : "Creating Navigation Menus 2",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/sVTwE/04-04-creating-navigation-menus-2"
+        },
+        {
+            "title" : "Creating Navigaion Menus 3",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/DCeKu/04-05-creating-navigation-menus-3"
+        },
+        {
+            "title" : "OPTIONAL: Homework Description",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/SyQ0X/04-06-optional-homework-description"
+        },
+        {
+            "title" : "Closing",
+            "href" : "https://www.coursera.org/learn/introcss/lecture/ivsNj/04-07-conclusion"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Peer-graded Assignment",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "css_05_quiz"
+        }
+    ]
+},
+{
+    "title": "Introduction to JavaScript",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "Why use JavaScript?",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "Introduction to JavaScript",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/EYX66/introduction"
+        },
+        {
+            "title" : "DOM Review with Object Oriented Programming",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/16Cu2/dom-review-with-object-oriented-programming"
+        },
+        {
+            "title" : "Output",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/JM3Bi/output"
+        },
+        {
+            "title" : "Variables",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/fMApf/variables"
+        },
+        {
+            "title" : "Data Types",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/c7grG/data-types"
+        },
+        {
+            "title" : "Operators and Expressions",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/4JNUO/operators-and-expressions"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Week 1",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "js_01_quiz"
+        }
+    ]
+},
+{
+    "title": "Reacting to Your Audience",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "JavaScript Mouse Events and Touch Events.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "Functions",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/Ltkbl/functions"
+        },
+        {
+            "title" : "Code Placement",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/NWlLT/code-placement"
+        },
+        {
+            "title" : "Folder Structure / Organizing Your Code",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/1cV0w/folder-structure-organizing-your-code"
+        },
+        {
+            "title" : "Events",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/D7R3j/events"
+        },
+        {
+            "title" : "Code With Me - Events",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/Ch7Pn/code-with-me-events"
+        },
+        {
+            "title" : "'this'",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/2fCqw/this"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Week 2",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "js_02_quiz"
+        }
+    ]
+},
+{
+    "title": "Arrays and Looping",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "Arrays allow you to represent groups of related information. Looping provides efficiency and flexibility to your programs.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "JavaScript Arrays",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/g8N8v/javascript-arrays"
+        },
+        {
+            "title" : "Code With Me - Arrays",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/0WIL8/code-with-me-arrays"
+        },
+        {
+            "title" : "JavaScript Iteration",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/ZO1SL/javascript-iteration"
+        },
+        {
+            "title" : "Flow Of Control",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/28x9J/flow-of-control"
+        },
+        {
+            "title" : "Code With Me - Combining Loops and Conditionals",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/Ir9pR/code-with-me-combining-loops-and-conditionals"
+        },
+        {
+            "title" : "Advanced Conditionals",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/klU5G/advanced-conditionals"
+        },
+        {
+            "title" : "Common Errors",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/3Qluo/common-errors"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: JavaScript Review",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "js_03_quiz"
+        }
+    ]
+},
+{
+    "title": "Validating Form Data",
+    "anchor": "host-validate",
+    "icon" : "fa-clone",
+    "description": "Creating and validating input entered into an HTML5 form.",
+    "slides": "lectures/Web-01-HTTP.ppt",
+    "references" : [
+
+        {
+            "title" : "Simple Forms",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/2VjBX/simple-forms"
+        },
+        {
+            "title" : "Simple Validation",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation"
+        },
+        {
+            "title" : "Comparing Two Inputs",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/i4227/comparing-two-inputs"
+        },
+        {
+            "title" : "Checkboxes and Radio Buttons",
+            "href" : "https://www.coursera.org/learn/javascript/lecture/KgbIm/checkboxes-and-radio-buttons"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Peer-graded Assignment",
+        "launch" : "mod/gift/",
+        "resource_link_id" : "js_04_quiz"
+        }
+    ]
+}
+
+]
+}
