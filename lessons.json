@@ -17,7 +17,7 @@
 "modules": [
 {
     "title": "HTML5/Web Basics",
-    "anchor": "basics",
+    "anchor": "html_basics",
     "icon" : "fa-clone",
     "description": "Uncover the 'mystery' behind the Internet.",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -206,7 +206,7 @@
 },
 {
     "title": "Getting Started with Simple Styling",
-    "anchor": "host-validate",
+    "anchor": "simple_styling",
     "icon" : "fa-clone",
     "description": "Style pages by taking advantage of the power of CSS3.",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -252,7 +252,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/9Ps4p/01-05-code-together"
         },
         {
-            "title" : "Video: Display and Visibility Part 1",
+            "title" : "Video:Display and Visibility Part 1",
             "href" : "https://www.coursera.org/learn/introcss/lecture/2XGcn/01-06a-display-and-visibility-part-1"
         },
         {
@@ -287,7 +287,7 @@
 },
 {
     "title": "Advanced Styling",
-    "anchor": "host-validate",
+    "anchor": "advanced_styling",
     "icon" : "fa-clone",
     "description": "Box Model, background images, opacity, float, columns, visibility, and designing for different browsers.",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -356,7 +356,7 @@
 },
 {
     "title": "Psuedo-classes, Pseudo-elements, Transitions, and Positioning",
-    "anchor": "host-validate",
+    "anchor": "psuedo",
     "icon" : "fa-clone",
     "description": "Style pseudo-classes and pseudo-elements.",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -393,7 +393,7 @@
 },
 {
     "title": "Putting It All Together",
-    "anchor": "host-validate",
+    "anchor": "together",
     "icon" : "fa-clone",
     "description": "Using pseudo-classes and pseudo-elements to style a table and utilizing different styling options",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -438,7 +438,7 @@
 },
 {
     "title": "Introduction to JavaScript",
-    "anchor": "host-validate",
+    "anchor": "intro_javascript",
     "icon" : "fa-clone",
     "description": "Why use JavaScript?",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -479,7 +479,7 @@
 },
 {
     "title": "Reacting to Your Audience",
-    "anchor": "host-validate",
+    "anchor": "react",
     "icon" : "fa-clone",
     "description": "JavaScript Mouse Events and Touch Events.",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -520,7 +520,7 @@
 },
 {
     "title": "Arrays and Looping",
-    "anchor": "host-validate",
+    "anchor": "array-loop",
     "icon" : "fa-clone",
     "description": "Arrays allow you to represent groups of related information. Looping provides efficiency and flexibility to your programs.",
     "slides": "lectures/Web-01-HTTP.ppt",
@@ -565,7 +565,7 @@
 },
 {
     "title": "Validating Form Data",
-    "anchor": "host-validate",
+    "anchor": "validate_form",
     "icon" : "fa-clone",
     "description": "Creating and validating input entered into an HTML5 form.",
     "slides": "lectures/Web-01-HTTP.ppt",
