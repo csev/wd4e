@@ -6,6 +6,7 @@
 <style>
 li { padding: 5px; }
 </style>
+<link href="../../static/prism.css" rel="stylesheet"/>
 </head>
 <body style="margin-left:5%; margin-bottom: 60px; margin-right: 5%; font-family: sans-serif;">
   <div class = "visible-print-block">
@@ -16,27 +17,23 @@ li { padding: 5px; }
   <br>
   <p>For the most part no. The background property can take a number of different values. Think about the border example we did in the Box Model lecture. This code</p>
   <br>
-  <pre>
-    border: 1px solid black;
-  </pre>
+<pre class="line-numbers"><code class="language-css">border: 1px solid black;</code></pre>
   <br>
   <p>is shorthand for</p>
-  <pre>
-    border-width: 1px;
-    border-color: black;
-    border-style: solid;
-  </pre>
+<!-- don't do a new line before the first line or after the last line -->
+<pre class="line-numbers"><code class="language-css">border-width: 1px;
+border-color: black;
+border-style: solid;</code></pre>
   <br>
   <p>So when I switch back-and-forth between background and background-color I am doing the same sort of thing...using the shorthand. What other things can go in the background property? Here is an example:</p>
   <br>
-  <pre>
-    background: #00ff00 url("imgs/ocean.jpg") no-repeat fixed center;
-  </pre>
+<pre class="line-numbers"><code class="language-css">background: #00ff00 url("imgs/ocean.jpg") no-repeat fixed center;</code></pre>
   <br>
   <p>This rule sets:</p>
   <li>background-color</li>
   <li>background-image</li>
   <li>background-repeat</li>
   <li>background-position</li>
+<script src="../../static/prism.js" type="text/javascript"></script>
 </body>
 </html>
