@@ -3,7 +3,8 @@
 "description" : "Hello and welcome to my site where you can work through these modules and learn to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript. Mastering this range of technologies will allow you to develop high quality web sites that, work seamlessly on mobile, tablet, and large screen browsers accessible.",
 "count": true,
 "required_modules": [
-    "https://github.com/tsugitools/peer-grade"
+    "https://github.com/tsugitools/peer-grade",
+    "https://github.com/tsugitools/gift"
 ],
 "badges": [
     {
@@ -31,7 +32,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to HTML5",
+            "title" : "Slides: Introduction to HTML5",
             "href" : "lectures/01_html5/01_01-intro_to_html.pdf"
         },
         {
@@ -47,7 +48,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/Lhlau/01-02-the-evolution-of-html"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: The Evolution of HTML5",
+            "title" : "Slides: The Evolution of HTML5",
             "href" : "lectures/01_html5/01_02-evolution_of_html.pdf"
         },
         {
@@ -63,7 +64,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/5syEt/01-03-how-it-works-the-magic-of-page-requests"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: The 'Magic' of Page Requests",
+            "title" : "Slides: The 'Magic' of Page Requests",
             "href" : "lectures/01_html5/01_03-page_requests.pdf"
         },
         {
@@ -75,7 +76,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/rPIuh/01-04-looking-at-your-browser-options"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Looking at Your Browsing Options",
+            "title" : "Slides: Looking at Your Browsing Options",
             "href" : "lectures/01_html5/01_04-browsing_options.pdf"
         },
         {
@@ -87,7 +88,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/wsxd5/01-05-editors-how-to-use-an-editor-to-create-an-html-file"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Editors: How to use an editor to create an HTML file",
+            "title" : "Slides: Editors: How to use an editor to create an HTML file",
             "href" : "lectures/01_html5/01_05-editors.pdf"
         }
     ],
@@ -111,7 +112,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: The Document Object Model [DOM]",
+            "title" : "Slides: The Document Object Model [DOM]",
             "href" : "lectures/02_html5/02_01-DOM.pdf"
         },
         {
@@ -123,7 +124,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/m1BQg/02-02-html5-tags-and-syntax"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: HTML5 Tags and Syntax",
+            "title" : "Slides: HTML5 Tags and Syntax",
             "href" : "lectures/02_html5/02_02-html_tags_and_syntax.pdf"
         },
         {
@@ -135,7 +136,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/riOKu/02-03-semantic-tags"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Semantic Tags",
+            "title" : "Slides: Semantic Tags",
             "href" : "lectures/02_html5/02_03-semantic_html_tags.pdf"
         },
         {
@@ -143,7 +144,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/6YX4i/02-04-template-page"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Tempalate Page",
+            "title" : "Slides: Tempalate Page",
             "href" : "lectures/02_html5/02_04-template_page.pdf"
         },
         {
@@ -151,7 +152,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/NxaOr/02-05-images"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Images",
+            "title" : "Slides: Images",
             "href" : "lectures/02_html5/02_05-images.pdf"
         },
         {
@@ -167,7 +168,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/7Wvrg/02-06-hyperlinks"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Hyperlinks",
+            "title" : "Slides: Hyperlinks",
             "href" : "lectures/02_html5/02_06-hyperlinks.pdf"
         },
         {
@@ -175,7 +176,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/CIR2e/02-07-multimedia"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Multimedia",
+            "title" : "Slides: Multimedia",
             "href" : "lectures/02_html5/02_07-multimedia.pdf"
         },
         {
@@ -183,7 +184,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/HtqUe/02-08-tables"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Tables",
+            "title" : "Slides: Tables",
             "href" : "lectures/02_html5/02_08-tables.pdf"
         },
         {
@@ -191,7 +192,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/blrRu/02-09-useful-tags"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Useful Tags",
+            "title" : "Slides: Useful Tags",
             "href" : "lectures/02_html5/02_09-useful_tags.pdf"
         }
     ],
@@ -215,7 +216,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/d6Pha/03-01-accessibility"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Accessibility",
+            "title" : "Slides: Accessibility",
             "href" : "lectures/03_html5/03_01-accessible_web.pdf"
         },
         {
@@ -235,7 +236,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/afqDD/03-02b-funkify"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Validating Your Site",
+            "title" : "Slides: Validating Your Site",
             "href" : "lectures/03_html5/03_02-validating.pdf"
         },
         {
@@ -247,7 +248,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/rEN7t/03-03-hosting-your-site"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Hosting Your Site",
+            "title" : "Slides: Hosting Your Site",
             "href" : "lectures/03_html5/03_03-hosting.pdf"
         },
         {
@@ -255,7 +256,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/Ct8Hy/03-04-cpanel"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: cPanel",
+            "title" : "Slides: cPanel",
             "href" : "lectures/03_html5/03_04-cPanel.pdf"
         },
         {
@@ -271,7 +272,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/oJyXt/03-05-using-secure-file-transfer-protocol"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Using Secure File Transfer Protocol",
+            "title" : "Slides: Using Secure File Transfer Protocol",
             "href" : "lectures/03_html5/03_05-SFTP.pdf"
         },
         {
@@ -283,7 +284,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/iFxeJ/03-06-final-project-demo"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Final Project Demo",
+            "title" : "Slides: Final Project Demo",
             "href" : "lectures/03_html5/03_06-final_project.pdf"
         },
         {
@@ -299,7 +300,7 @@
             "href" : "https://www.coursera.org/learn/html/lecture/FlG0K/03-07-closing"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Closing",
+            "title" : "Slides: Closing",
             "href" : "lectures/03_html5/03_07-closing.pdf"
         },
         {
@@ -344,7 +345,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/zOHP0/01-01-course-welcome"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to CSS3",
+            "title" : "Slides: Introduction to CSS3",
             "href" : "lectures/01_css3/01_01-intro_to_css3.pdf"
         },
         {
@@ -356,7 +357,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/pf413/01-02-cascading-style-sheets"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Cascading Style Sheets",
+            "title" : "Slides: Cascading Style Sheets",
             "href" : "lectures/01_css3/01_02-cascading_style_sheets.pdf"
         },
         {
@@ -364,7 +365,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/BssvJ/01-03-colors"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Colors",
+            "title" : "Slides: Colors",
             "href" : "lectures/01_css3/01_03-colors.pdf"
         },
         {
@@ -372,7 +373,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/kxPBK/01-04-styling-your-text"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Styling Your Text",
+            "title" : "Slides: Styling Your Text",
             "href" : "lectures/01_css3/01_04-styling_your_text.pdf"
         },
         {
@@ -388,7 +389,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/2XGcn/01-06a-display-and-visibility-part-1"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Display and Visibility",
+            "title" : "Slides: Display and Visibility",
             "href" : "lectures/01_css3/01_06-display_and_visibility.pdf"
         },
         {
@@ -396,7 +397,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/vXFBt/01-06b-display-and-visibility-part-2"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Display and Visibility",
+            "title" : "Slides: Display and Visibility",
             "href" : "lectures/01_css3/01_06-display_and_visibility.pdf"
         },
         {
@@ -412,7 +413,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/ta7aA/01-07-optional-homework-description"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Homework One",
+            "title" : "Slides: Homework One",
             "href" : "lectures/01_css3/01_07-homework_one.pdf"
         }
     ],
@@ -445,7 +446,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/VDg21/02-01-box-model"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Box Model",
+            "title" : "Slides: Box Model",
             "href" : "lectures/02_css3/02_01-box_model.pdf"
         },
         {
@@ -461,7 +462,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/VVJf3/02-03-styling-links-and-lists"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Styling Links and Lists",
+            "title" : "Slides: Styling Links and Lists",
             "href" : "lectures/02_css3/02_03-styling_links_and_lists.pdf"
         },
         {
@@ -469,7 +470,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/dXukm/02-04-advanced-selectors"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Advanced Selectors",
+            "title" : "Slides: Advanced Selectors",
             "href" : "lectures/02_css3/02_04-advanced_selectors.pdf"
         },
         {
@@ -485,7 +486,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/rlS0y/02-05-browser-capabilites"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Browser Capabilities",
+            "title" : "Slides: Browser Capabilities",
             "href" : "lectures/02_css3/02_05-browser_capabilities.pdf"
         },
         {
@@ -509,7 +510,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/sB0Wx/02-07-designing-for-accessibility"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Designing for Accessibility",
+            "title" : "Slides: Designing for Accessibility",
             "href" : "lectures/02_css3/02_07-designing_for_accessibility.pdf"
         },
         {
@@ -521,7 +522,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Homework Two",
+            "title" : "Slides: Homework Two",
             "href" : "lectures/02_css3/02_08-homework_two.pdf"
         },
         {
@@ -558,7 +559,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/jE7LQ/03-01-pseudo-classes-and-elements"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Pseudo Classes and Elements",
+            "title" : "Slides: Pseudo Classes and Elements",
             "href" : "lectures/03_css3/03_01-pseudo_classes_and_elements.pdf"
         },
         {
@@ -566,7 +567,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/JmJhE/03-02-transitions"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Transitions",
+            "title" : "Slides: Transitions",
             "href" : "lectures/03_css3/03_02-transitions.pdf"
         },
         {
@@ -574,7 +575,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/9rzOu/03-03-transforms"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Transforms",
+            "title" : "Slides: Transforms",
             "href" : "lectures/03_css3/03_03-transforms.pdf"
         },
         {
@@ -594,7 +595,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/f1qY2/03-05-positioning"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Positioning",
+            "title" : "Slides: Positioning",
             "href" : "lectures/03_css3/03_05-positioning.pdf"
         },
         {
@@ -638,7 +639,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/WWU0K/04-03-accessible-navigation"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Accessible Navigation",
+            "title" : "Slides: Accessible Navigation",
             "href" : "lectures/04_css3/04_03-accessible_navigation.pdf"
         },
         {
@@ -666,7 +667,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/ivsNj/04-07-conclusion"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Closing",
+            "title" : "Slides: Closing",
             "href" : "lectures/04_css3/04_07-closing.pdf"
         },
         {
@@ -722,7 +723,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/EYX66/introduction"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to JavaScript",
+            "title" : "Slides: Introduction to JavaScript",
             "href" : "lectures/01_js/01_01-intro_to_js.pdf"
         },
         {
@@ -738,7 +739,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/16Cu2/dom-review-with-object-oriented-programming"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: DOM Review with Object Oriented Programming",
+            "title" : "Slides: DOM Review with Object Oriented Programming",
             "href" : "lectures/01_js/01_02-DOM_review.pdf"
         },
         {
@@ -746,7 +747,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/JM3Bi/output"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Output",
+            "title" : "Slides: Output",
             "href" : "lectures/01_js/01_03-js_output.pdf"
         },
         {
@@ -758,7 +759,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/fMApf/variables"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Variables",
+            "title" : "Slides: Variables",
             "href" : "lectures/01_js/01_04-variables.pdf"
         },
         {
@@ -766,7 +767,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/c7grG/data-types"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Data Types",
+            "title" : "Slides: Data Types",
             "href" : "lectures/01_js/01_05-functions.pdf"
         },
         {
@@ -774,7 +775,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/4JNUO/operators-and-expressions"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Operatorsand Expressions",
+            "title" : "Slides: Operatorsand Expressions",
             "href" : "lectures/01_js/01_06-operators_and_expressions.pdf"
         },
         {
@@ -818,7 +819,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/Ltkbl/functions"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Functions",
+            "title" : "Slides: Functions",
             "href" : "lectures/02_js/02_01-functions.pdf"
         },
         {
@@ -826,7 +827,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/NWlLT/code-placement"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Code Placement",
+            "title" : "Slides: Code Placement",
             "href" : "lectures/02_js/02_02-code_placement.pdf"
         },
         {
@@ -838,7 +839,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/1cV0w/folder-structure-organizing-your-code"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Folder Structure / Organizing Your Code",
+            "title" : "Slides: Folder Structure / Organizing Your Code",
             "href" : "lectures/02_js/02_03-folder_structure.pdf"
         },
         {
@@ -846,7 +847,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/D7R3j/events"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Events",
+            "title" : "Slides: Events",
             "href" : "lectures/02_js/02_04-events.pdf"
         },
         {
@@ -866,7 +867,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/2fCqw/this"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: 'this'",
+            "title" : "Slides: 'this'",
             "href" : "lectures/02_js/02_06-this.pdf"
         },
         {
@@ -911,7 +912,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/g8N8v/javascript-arrays"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: JavaScript Arrays",
+            "title" : "Slides: JavaScript Arrays",
             "href" : "lectures/03_js/03_01-js_arrays.pdf"
         },
         {
@@ -927,7 +928,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/ZO1SL/javascript-iteration"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: JavaScript Iteration",
+            "title" : "Slides: JavaScript Iteration",
             "href" : "lectures/03_js/03_03-js_iteration.pdf"
         },
         {
@@ -935,7 +936,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/28x9J/flow-of-control"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Flow Of Control",
+            "title" : "Slides: Flow Of Control",
             "href" : "lectures/03_js/03_04-flow_of_control.pdf"
         },
         {
@@ -947,7 +948,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/klU5G/advanced-conditionals"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Advanced Conditionals",
+            "title" : "Slides: Advanced Conditionals",
             "href" : "lectures/03_js/03_06-advanced_conditionals.pdf"
         },
         {
@@ -955,7 +956,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/3Qluo/common-errors"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Common Errors",
+            "title" : "Slides: Common Errors",
             "href" : "lectures/03_js/03_07-common_errors.pdf"
         }
     ],
@@ -987,7 +988,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/2VjBX/simple-forms"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Simple Forms",
+            "title" : "Slides: Simple Forms",
             "href" : "lectures/04_js/04_01-simple_forms.pdf"
         },
         {
@@ -995,7 +996,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Simple Validation",
+            "title" : "Slides: Simple Validation",
             "href" : "lectures/04_js/04_02-simple_validation.pdf"
         },
         {
@@ -1007,7 +1008,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/i4227/comparing-two-inputs"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Comparing Two Inputs",
+            "title" : "Slides: Comparing Two Inputs",
             "href" : "lectures/04_js/04_03-comparing_two_inputs.pdf"
         },
         {
@@ -1015,7 +1016,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/KgbIm/checkboxes-and-radio-buttons"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Checkboxes and Radio Buttons",
+            "title" : "Slides: Checkboxes and Radio Buttons",
             "href" : "lectures/04_js/04_04-checkboxes_and_radio_buttons.pdf"
         },
         {
@@ -1067,7 +1068,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/txDkK/introduction-to-responsive-design"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to Responsive Design",
+            "title" : "Slides: Introduction to Responsive Design",
             "href" : "lectures/01_rd/01_01-intro_to_rd.pdf"
         },
         {
@@ -1079,7 +1080,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/ps9ld/what-is-responsive-design"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: What is Responsive Design",
+            "title" : "Slides: What is Responsive Design",
             "href" : "lectures/01_rd/01_02-what_is_rd.pdf"
         },
         {
@@ -1087,7 +1088,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/M1D8S/testing-existing-sites"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Testing Existing Sites",
+            "title" : "Slides: Testing Existing Sites",
             "href" : "lectures/01_rd/01_03-testing_sites.pdf"
         },
         {
@@ -1095,7 +1096,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/4DDTg/benefits-of-responsive-design"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Benefits of Responsive Design",
+            "title" : "Slides: Benefits of Responsive Design",
             "href" : "lectures/01_rd/01_04-benefits_of_rd.pdf"
         },
         {
@@ -1107,7 +1108,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/stZ5k/fluid-measurements"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Fluid Measurements",
+            "title" : "Slides: Fluid Measurements",
             "href" : "lectures/01_rd/01_05-fluid_measurements.pdf"
         },
         {
@@ -1151,7 +1152,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/b2Gan/media-queries"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Media Queries",
+            "title" : "Slides: Media Queries",
             "href" : "lectures/02_rd/02_01-media_queries.pdf"
         },
         {
@@ -1163,7 +1164,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/CuYAt/wire-frames"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Wire Frames",
+            "title" : "Slides: Wire Frames",
             "href" : "lectures/02_rd/02_03-wireframes.pdf"
         },
         {
@@ -1171,7 +1172,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/89Aoz/breakpoints"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Breakpoints",
+            "title" : "Slides: Breakpoints",
             "href" : "lectures/02_rd/02_04-breakpoints.pdf"
         },
         {
@@ -1179,7 +1180,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/TK4CK/media-queries-part-two"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Media Queries Part 2",
+            "title" : "Slides: Media Queries Part 2",
             "href" : "lectures/02_rd/02_05-media_queries_p2.pdf"
         },
         {
@@ -1216,7 +1217,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/9Osia/frameworks"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Frameworks",
+            "title" : "Slides: Frameworks",
             "href" : "lectures/03_rd/03_01-frameworks.pdf"
         },
         {
@@ -1224,7 +1225,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/y9itO/introduction-to-twitter-bootstrap-3"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Introduction to Twitter Bootstrap 3",
+            "title" : "Slides: Introduction to Twitter Bootstrap 3",
             "href" : "lectures/03_rd/03_02-intro_to_bootstrap_3.pdf"
         },
         {
@@ -1232,7 +1233,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/OuZp6/bootstrap-breakpoints"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap Breakpoints",
+            "title" : "Slides: Bootstrap Breakpoints",
             "href" : "lectures/03_rd/03_03-bootstrap_breakpoints.pdf"
         },
         {
@@ -1240,7 +1241,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/wZGGp/getting-started-with-twitter-bootstrap"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Getting Started with Twitter Bootstrap",
+            "title" : "Slides: Getting Started with Twitter Bootstrap",
             "href" : "lectures/03_rd/03_04-getting_started_with_bootstrap_3.pdf"
         },
         {
@@ -1248,7 +1249,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/yHMDd/bootstrap-grid-system"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap 3 Grid System",
+            "title" : "Slides: Bootstrap 3 Grid System",
             "href" : "lectures/03_rd/03_05-bootstrap_3_grid_system.pdf"
         },
         {
@@ -1260,7 +1261,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/opt7D/bootstrap-navigation"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap Navigation",
+            "title" : "Slides: Bootstrap Navigation",
             "href" : "lectures/03_rd/03_07-bootstrap_navigation.pdf"
         },
         {
@@ -1293,7 +1294,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/17cwr/responsive-images"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Responsive Images",
+            "title" : "Slides: Responsive Images",
             "href" : "lectures/04_rd/04_01-responsive_images.pdf"
         },
         {
@@ -1301,7 +1302,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/DDtg7/bootstrap-tables"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap Tables",
+            "title" : "Slides: Bootstrap Tables",
             "href" : "lectures/04_rd/04_02-tables.pptx"
         },
         {
@@ -1313,7 +1314,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/bnAQy/what-are-templates"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: What Are Templates?",
+            "title" : "Slides: What Are Templates?",
             "href" : "lectures/04_rd/04_04-what_are_templates.pdf"
         },
         {
@@ -1333,7 +1334,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/lj9fx/bootstrap-4"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Bootstrap 4",
+            "title" : "Slides: Bootstrap 4",
             "href" : "lectures/04_rd/04_05-bootstrap_4.pdf"
         },
         {
@@ -1341,7 +1342,7 @@
             "href" : "https://www.coursera.org/learn/responsivedesign/lecture/McQjT/conclusion"
         },
         {
-            "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Conclusion",
+            "title" : "Slides: Conclusion",
             "href" : "lectures/04_rd/04_06-conclusion.pdf"
         },
         {
