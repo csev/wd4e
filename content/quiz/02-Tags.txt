@@ -1,0 +1,91 @@
+// multiple choice
+::Q1 MA:: Semantics is
+{ =the practice of giving content on the page meaning and structure by using proper element # Correct! ~the set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in that language # See Lesson 2: Getting to Know HTML reading ~circular # See Lesson 2: Getting to Know HTML reading}
+
+// multiple choice
+::Q2 MA:: Semantic code describes the ____ of content on a page, regardless of the style or appearance of that content.
+{ ~number # See Lesson 2: Getting to Know HTML reading =value # Correct! ~language # See Lesson 2: Getting to Know HTML reading}
+
+// true/false
+::Q3 T/F:: Using the header and footer tags can improve the search engine optimization for your page. {T}
+
+// multiple choice
+::Q4 MA:: Every well-formed HTML document should include:
+{ =doctype, head, body # Correct! ~doctype, header, body # Review the Document Object Model lecture ~header, nav, footer # While it is a good idea to include these tag instead of generic tags, they are not required. Review the Document Object Model lecture.}
+
+// multiple choice
+::Q5 MA:: What is wrong with the following code?
+<a href = "picture.jpg">My dog</a> chews socks.
+{ ~The link in the href must have a full URL # Links can use relative URLs. Review lecture on Links. =This code is semantically and syntactically correct. # Correct! ~You can not have text after the closing </a> tag # Review Lesson 2: Getting to Know HTML reading}
+
+// true/false
+::Q6 T/F:: Block-level elements begin on a new line. {T}
+
+// true/false
+::Q7 T/F:: Inline-level elements begin on a new line. {F}
+
+// true/false
+::Q8 T/F:: A <div> block is an inline-level element. {F}
+
+// true/false
+::Q9 T/F:: A <span> block is an inline-level element. {T}
+
+// multiple choice
+::Q10 MA:: Which tag represents a line break (new line)?
+{ =<br> # Correct! ~<lb> # See the HTML Syntax lecture ~<break> # See the HTML Syntax lecture ~<line> # See the HTML Syntax lecture}
+
+// multiple choice
+::Q11 MA:: Which of the following are valid tags for HTML5 headings?
+{ =<h5>..</h5> # Correct! ~<heading>..</heading> # See the HTML Syntax lecture ~<h7>..</h7> # See the HTML Syntax lecture ~<h9>..</h9> # See the HTML Syntax lecture}
+
+// multiple choice
+::Q12 MA:: All of the content you wish to appear on the screen should be in which tag?
+{ =<body> # Correct! ~<html> # See Chapter 9 ~<content> # See Chapter 9 ~<main> # See Chapter 9}
+
+// multiple choice
+::Q13 MA:: Which tag is used to create a link?
+{ =<a> # Correct! ~<link> # Review the HTML syntax lecture ~<anchor> # Review the HTML syntax lecture ~<hyper> # Review the HTML syntax lecture}
+
+// multiple choice
+::Q14 MA:: Which HTML element will number items for you?
+{ =<ol> # Correct! ~<ul> # Review Lesson 8 and/or the HTML5 Syntax lecture ~<num> # Review Lesson 8 and/or the HTML5 Syntax lecture ~<dl> # Review Lesson 8 and/or the HTML5 Syntax lecture}
+
+// true/false
+::Q15 T/F:: The start attribute defines the number from which an unordered list should start. {F}
+
+// true/false
+::Q16 T/F:: The reverse attribute allows a list to appear in a reverse order in an unordered list. {F}
+
+// multiple choice
+::Q17 MA:: Which attribute can be used to change its number within an ordered list?
+{ ~num # Review Lesson 8: Creating Lists reading ~skip # Review Lesson 8: Creating Lists reading ~change # Review Lesson 8: Creating Lists reading =value # Correct!}
+
+// true/false
+::Q18 T/F:: The <ul> and <o> elements may contain only <li> elements. {T}
+
+// multiple choice
+::Q19 MA:: The tags to create definitions are:
+{ =<dl>, <dt>, <dd> # Correct! ~<def>, <dt>, <dd> # Review Lesson 8: Creating Lists reading ~<def>, <dt>, <li> # Review Lesson 8: Creating Lists reading ~<dl>, <term>, <def> # Review Lesson 8: Creating Lists reading}
+
+// multiple choice
+::Q20 MA:: What should target = "_blank" do when included in a link tag?
+{ =Opens the link in a new tab or window # Correct! ~Opens the link in a in a tab called "_blank" # Review Lesson 9: Adding Media reading ~This is not a valid expression # Review Lesson 9: Adding Media reading}
+
+// true/false
+::Q21 T/F:: In order for the <img> element to work, a src attribute and value must be included to specify the source of the image. {T}
+
+// true/false
+::Q22 T/F:: The alt text of an image should describe the appearance of an image. {F}
+
+// multiple choice
+::Q23 MA:: When should an image have null (empty) alt text (alt = “”)?
+{ ~When the image is black and white # Review Lesson 9: Adding Media reading ~When the image is complex # Review Lesson 9: Adding Media reading =When the image is decorative # Correct! ~When the image already displays descriptive text # Review Lesson 9: Adding Media reading}
+
+// multiple choice
+::Q24 MA:: What are the elements to help organize the data and structure of a table?
+{ ~<caption>, <head>, <body>, <foot> # Review Lesson 11: Organizing Your Data with Tables reading ~<caption>, <thead>, <tbody>, <foot> # Review Lesson 11: Organizing Your Data with Tables reading =<caption>, <thead>, <tbody>, <tfoot> # Correct! ~<caption>, <thead>, <body>, <foot> # Review Lesson 11: Organizing Your Data with Tables reading}
+
+// multiple choice
+::Q25 MA:: What does <thead> stand for?
+{ ~The head # Review Lesson 11: Organizing Your Data with Tables reading =Table head # Correct! ~Table header # Review Lesson 11: Organizing Your Data with Tables reading}
+

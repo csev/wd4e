@@ -1,0 +1,102 @@
+// fill-in-the-blank (only right answers)
+::Q1 Short Answer:: What does HTML stand for? {=Hyper Text Markup Language}
+
+// true/false
+::Q2 T/F:: HTML5 tags have the same semantic meaning, regardless of the browser being used. {T}
+
+// multiple choice
+::Q3 MA:: FTP stands for
+{ =File Transfer Protocol ~Files to Push ~File Transmission Pipe}
+
+// multiple choice
+::Q4 MA:: HTTP stands for
+{ ~Hyper Transfer Translation Program =Hyper Text Transfer Protocol # Correct! ~Hyper Text Text Program}
+
+// multiple choice with multiple right and wrong
+::Q5 MA:: Which of the following is part of a URL?
+{ =Protocol # Correct! ~Editor # See the How It Works lecture ~Hosting Service # See the How It Works lecture =Domain # Correct!}
+
+// multiple choice
+::Q6 MA:: The Internet is a type of
+{ =Wide Area Network # Correct! ~Local Area Network # See the How It Works lecture ~Hypertext Network # See the How It Works lecture}
+
+// multiple choice
+::Q7 MA:: What is the Request/Response Cycle?
+{ ~The process that happens when a server requests a page and a client responds with the appropriate files # See the How It Works lecture ~The process that happens when a HTML5 is created with an editor # See the How It Works lecture =The process that happens when a client requests a page and a server responds with the appropriate files # Correct!}
+
+// fill-in-the-blank (only right answers)
+::Q8 Short Answer:: A { =server} is a computer that is in charge of handling resource requests from multiple computers.
+
+// multiple choice
+::Q9 MA:: Which of the following is an example of a top-level domain?
+{ ~umich.edu # See the How It Works lecture =.com # Correct! ~wikipedia.org # See the How It Works lecture}
+
+// multiple choice
+::Q10 MA:: The Domain Name Service looks up the domain and returns the
+{ ~server # See the How It Works lecture =IP address # Correct! ~host # See the How It Works lecture ~document # See the How It Works lecture}
+
+// multiple choice
+::Q11 MA:: Which organization is responsible for assigning top-level domain names?
+{ ~Internet Domain Name Server (IDNS) # See the How It Works lecture ~World Wide Web Consortium (W3C) # See the How It Works lecture =Internet Corporation for Assigned Numbers and Names (ICANN) # Correct!}
+
+// true/false
+::Q12 T/F:: A single web page may require several iterations of the Request-Response Cycle. {T}
+
+// fill-in-the-blank (only right answers)
+::Q13 Short Answer:: What does LAN stand for? { =Local Area Network}
+
+// fill-in-the-blank (only right answers)
+::Q14 Short Answer:: What does WAN stand for? { =Wide Area Network}
+
+// multiple choice
+::Q15 MA:: Which is the correct file extension for a web page?
+{ =.html # Correct! ~.txt # A browser will not know how to display the HTML tags if the file ends in .txt ~.doc # A browser will not know how to display a file ends in .doc ~.ppt # A browser will not know how to display a file ends in .ppt}
+
+// fill-in-the-blank (only right answers)
+::Q16 Short Answer:: HTML uses { =tags} to annotate documents.  This is a way of marking up the content to identify specific HTML elements.
+
+// multiple choice
+::Q17 MA:: Which of the following best explains the difference between syntax and semantics.
+{ ~Syntax and semantics are interchangeable # See the HTML Evolution lecture ~A browser may have trouble displaying a page if the semantics is incorrect # Browsers display content strictly based on syntax =A browser may have trouble displaying a page if the syntax is incorrect # Correct!}
+
+// fill-in-the-blank (only right answers)
+::Q18 Short Answer:: The first graphical browser was { =mosaic}
+
+// multiple choice
+::Q19 MA:: What are proprietary tags?
+{ ~Tags that displayed copyright information # See the HTML Evolution lecture =Tags that work only on certain browsers # Correct! ~Tags used to define ownership of the content # See the HTML Evolution lecture}
+
+// multiple choice
+::Q20 MA:: Which of these tags breaks the tenet of the  separation of content and layout?
+{ ~body # See the HTML Evolution lecture ~h1 # See the HTML Evolution lecture =font # Correct!}
+
+// multiple choice
+::Q21 MA:: Which of the following are browsers?
+{ =Chrome, Firefox, Safari # Correct! ~Firefox, Windows, Chrome # Windows is not a browser ~Safari, Mac, Sublime, Chrome # Mac and Sublime are not browsers}
+
+// multiple choice
+::Q22 MA:: W3C stands for
+{ =World Wide Web Consortium # Correct! ~WWW Compliance # See the HTML Evolution lecture ~World Wide Web Community # See the HTML Evolution lecture}
+
+// true/false
+::Q23 T/F:: A basic functionality of browsers is to translate HTML documents into viewable webpages. {T}
+
+// multiple choice
+::Q24 MA:: Which version of HTML introduced semantic tags?
+{ =HTML 5 # Correct! ~HTML 4 # See the HTML Evolution lecture ~HTML 3 # See the HTML Evolution lecture ~HTML 2 # See the HTML Evolution lecture}
+
+// multiple choice
+::Q25 MA:: The predecessor of the internet was
+{ ~Al Gore =Arpanet # Correct! ~CompuServe ~DARPA}
+
+// multiple choice
+::Q26 MA:: URL stands for
+{ =Uniform Resource Locator # Correct! ~Unordered Resource Location ~Universal Relation Locator}
+
+// multiple choice
+::Q27 MA:: CSS stands for
+{ ~Cascading Color Scheme ~Cascading Hypertext Style Script  =Cascading Style Sheet # Correct!}
+
+// fill-in-the-blank (only right answers)
+::Q28 Short Answer:: CSS1 was introduced for public use in { =1996}
+
