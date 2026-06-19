@@ -3,14 +3,13 @@ use \Tsugi\Util\Net;
 use \Tsugi\Core\LTIX;
 use \Tsugi\UI\Output;
 
-// Help the installer through the setup process
-require "check.php";
+if ( ! defined('COOKIE_SESSION') ) {
+    define('COOKIE_SESSION', true);
+}
 
+require_once "sanity.php";
 require "top.php";
 require "nav.php";
-
-// Help the installer through the setup process
-require_once "tsugi/admin/sanity-db.php";
 ?>
 <div id="container">
 <div style="margin-left: 10px; float:right">
