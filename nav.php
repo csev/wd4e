@@ -16,7 +16,9 @@ if ( isset($_SESSION['id']) ) {
     if ( isset($CFG->google_map_api_key) ) {
         $submenu->addLink('Map', $R.'map');
     }
-    $submenu->addLink('Badges', $R.'badges');
+    if ( ! empty($CFG->badge_encrypt_password) ) {
+        $submenu->addLink('Badges', $R.'badges');
+    }
     $submenu->addLink('Materials', $R.'materials');
     $submenu->addLink('Rate this course', 'https://www.class-central.com/mooc/7362/web-applications-for-everybody');
     $submenu->addLink('Privacy', $R.'privacy');

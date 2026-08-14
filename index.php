@@ -22,9 +22,9 @@ require "nav.php";
   <ul>
     <li>As you go through the <a href="lessons">Lessons</a> in the course you now will see additional links to the autograders in the class.
       You can attempt the autograders and get a score.</li>
-    <li>You can track your progress through the course using the <a href="tsugi/assignments.php">Assignments</a> tool and when you complete a group of assignments, you can earn a <a href="tsugi/badges.php">Badge</a>.
-      You can download these badges and host them on your web site or refer the badge URLs on this site.</li>
-    <li>There is an <a href="https://disqus.com/home/channel/webapplicationsforeverybody/" target="_blank">online disucsson forum</a> hosted by Disqus.</li>
+    <li>You can track your progress through the course using the <a href="assignments">Assignments</a> tool<?php if ( ! empty($CFG->badge_encrypt_password) ) { ?>
+      and when you complete a group of assignments, you can earn a <a href="badges">Badge</a>.
+      You can download these badges and host them on your web site or refer the badge URLs on this site<?php } ?>.</li>
     <li>You can use these Creative Commons Licensed materials such as the <a href="lectures" target="_blank">lectures</a> in your own classes.
       You can also <a href="tsugi/cc/export.php">export the course material</a> as an IMS Common Cartridge®, or apply for an IMS Learning Tools Interoperability® (LTI®) <a href="tsugi/admin/key/index.php">key and secret</a> to launch the autograders from your LMS.</li>
   </ul>
